@@ -1,4 +1,5 @@
-public class TokenType {
+package ca.kennyf.lox;
+
     enum TokenType {
 
         // Single-character tokens.
@@ -15,5 +16,3 @@ public class TokenType {
 
         EOF
     }
-
-}
